@@ -2,6 +2,7 @@
 
 French student 🇫🇷 : Infrastructure et réseau, Developper.
 
+You can have my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="btn">CV here.</a>
 
 # Technologies
 
@@ -38,4 +39,10 @@ My linux Distributions :
 
 # Incoming Project
 
-Im working on [Galiléo's CDR project](https://github.com/GalileoCPELYON/CDR_25_26)
+Im working on :
+- [Galiléo's CDR project](https://github.com/GalileoCPELYON/CDR_25_26)
+- [Mon Portfolio](https://github.com/killex8569/Mon-Portfolio)
+- [LDMB](https://github.com/killex8569/LDMB)
+- [Documentation Homelab](https://github.com/killex8569/Documentation-Homelab)
+
+
