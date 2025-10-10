@@ -2,7 +2,6 @@
 
 French student 🇫🇷 : Infrastructure et réseau, Developper.
 
-<img alt="CSS" src=" https://img.shields.io/badge/Open source lover-CPE/Institution des Chartreux-blue"/>
 
 # Technologies
 
