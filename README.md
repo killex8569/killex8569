@@ -1,12 +1,10 @@
-# Alexandre Faubladier--Anette
+French student 🇫🇷: Infrastructure and Network, Developer.
 
-French student 🇫🇷 : Infrastructure et réseau, Developper.
-
-You can have my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="btn">CV here.</a>
+You can find my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="btn">CV here</a>.
 
 # Technologies
 
-technologies i use
+Technologies I use
 
 <p>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,10 +15,10 @@ technologies i use
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="JS" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
 
 
-My linux Distributions : 
+# Linux Distributions 🐧 
 
 <p>
 <img alt="Fédora" src="https://img.shields.io/badge/Fedora_Linux-1793D1?style=for-the-badge&logo=fedora&logoColor=white"/>
@@ -32,27 +30,24 @@ My linux Distributions :
 </p>
 
 
-# School cursus
+# School Curriculum 
 
-> 1st and 2nd year at Institution des Chartreux (BTS SIO) ✅
+> 1st and 2nd year at Institution des Chartreux (BTS SIO) ✅  
 
-> 3rd year in ICS (CPE Lyon), IT and Cybersécurity engineering crusus 
+> 3rd year at CPE Lyon (ICS), IT and Cybersecurity Engineering Curriculum
 
+# Personal Projects ⚙️
 
-# Personnal Project
+> Personal Homelab 
 
-> Personnal Homelab
+> LDMB (Linux Disk Manager in Bash)
 
-> LDMB (Linux Disque Manager on Bash)
+# Upcoming Projects 🚀
 
-> 
+I'm working on:
 
-# Incoming Project
-
-Im working on :
-- [Galiléo's CDR project](https://github.com/GalileoCPELYON/CDR_25_26)
-- [Mon Portfolio](https://github.com/killex8569/Mon-Portfolio)
-- [LDMB](https://github.com/killex8569/LDMB)
-- [Documentation Homelab](https://github.com/killex8569/Documentation-Homelab)
-
+- [Galileo's CDR Project](https://github.com/GalileoCPELYON/CDR_25_26)  
+- [My Portfolio](https://github.com/killex8569/Mon-Portfolio)  
+- [LDMB](https://github.com/killex8569/LDMB)  
+- [Homelab Documentation](https://github.com/killex8569/Documentation-Homelab)
 
