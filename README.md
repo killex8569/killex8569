@@ -6,7 +6,7 @@ You can have my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="b
 
 # Technologies
 
-I learn this technologies
+technologies i use
 
 <p>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -17,18 +17,18 @@ I learn this technologies
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
+<img alt="JS" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
 
 
 My linux Distributions : 
 
 <p>
-<img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
+<img alt="Fédora" src="https://img.shields.io/badge/Fedora_Linux-1793D1?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img alt="Nix" src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
 <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-
+<img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
+<img alt="Manjaro" src="https://img.shields.io/badge/Debian-59BD9F?style=for-the-badge&logo=Debian&logoColor=white"/>
 </p>
 
 
@@ -38,6 +38,14 @@ My linux Distributions :
 
 > 3rd year in ICS (CPE Lyon), IT and Cybersécurity engineering crusus 
 
+
+# Personnal Project
+
+> Personnal Homelab
+
+> LDMB (Linux Disque Manager on Bash)
+
+> 
 
 # Incoming Project
 
