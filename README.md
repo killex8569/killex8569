@@ -38,9 +38,15 @@ Technologies I use
 
 # Personal Projects ⚙️
 
+Here are my projects (Not finished yet !)
+
 > Personal Homelab 
 
 > LDMB (Linux Disk Manager in Bash)
+
+> CDR Galiléo (Coupe De Robotique)
+
+> LineUp_Project
 
 # Upcoming Projects 🚀
 
@@ -50,4 +56,3 @@ I'm working on:
 - [My Portfolio](https://github.com/killex8569/Mon-Portfolio)  
 - [LDMB](https://github.com/killex8569/LDMB)  
 - [Homelab Documentation](https://github.com/killex8569/Documentation-Homelab)
-
