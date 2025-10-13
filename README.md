@@ -5,9 +5,9 @@ You can find my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="b
 [📄 CV - Alexandre Faubladier](data/CV%20Alexandre%20Faubladier--anette%203ICS.pdf)
 
 
-# Technologies
+# Technologies (Dev)
 
-Technologies I use
+Technologies I use :
 
 <p>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -19,6 +19,19 @@ Technologies I use
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
+
+
+# Technologies (Infrastructure, Cybersécurity and Networking)
+
+Technologies I use : 
+
+<img alt="opnsense" src="https://img.shields.io/badge/opnsense-E44C30?style=for-the-badge&logo=opnsense&logoColor=black"/>
+<img alt="proxmox" src="https://img.shields.io/badge/proxmox-DE6612?style=for-the-badge&logo=proxmox&logoColor=black"/>
+<img alt="stormshield" src="https://img.shields.io/badge/stormshield-0B9FD6?style=for-the-badge&logo=stormshield&logoColor=black"/>
+<img alt="watchguard" src="https://img.shields.io/badge/watchguard-C90004?style=for-the-badge&logo=watchguard&logoColor=black"/>
+<img alt="Cisco" src="https://img.shields.io/badge/Cisco-06BA1A?style=for-the-badge&logo=Cisco&logoColor=black"/>
+<img alt="Netgear" src="https://img.shields.io/badge/Netgear-453CCF?style=for-the-badge&logo=Netgear&logoColor=black"/>
+
 
 
 # Linux Distributions 🐧 
