@@ -1,6 +1,9 @@
-French student 🇫🇷: Infrastructure and Network, Developer.
+French IT & Cybersecurity Engineering student 🇫🇷 | Infrastructure, Networking & DevOps Enthusiast | Passionate about Linux, Automation & Open Source Projects
 
 You can find my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="btn">CV here</a>.
+
+[📄 CV - Alexandre Faubladier](data/CV%20Alexandre%20Faubladier--anette%203ICS.pdf)
+
 
 # Technologies
 
@@ -29,12 +32,14 @@ Technologies I use
 <img alt="Manjaro" src="https://img.shields.io/badge/Debian-59BD9F?style=for-the-badge&logo=Debian&logoColor=white"/>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=killex8569&show_icons=true&theme=radical)
+
 
 # School Curriculum 
 
-> 1st and 2nd year at Institution des Chartreux (BTS SIO) ✅  
+> 1st and 2nd year at **BTS SIO (Chartreux)**: Basics in IT & Networking ✅  
 
-> 3rd year at CPE Lyon (ICS), IT and Cybersecurity Engineering Curriculum
+> 3rd year at **CPE Lyon (ICS)**: Advanced IT, Cybersecurity & Network Engineering 🔒
 
 # Personal Projects ⚙️
 
