@@ -19,6 +19,8 @@ Technologies I use :
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 
 
 # Technologies (Infrastructure, Cybersécurity and Networking)
@@ -52,7 +54,7 @@ Technologies I use :
 
 > 1st and 2nd year at **BTS SIO (Chartreux)**: Basics in IT & Networking ✅  
 
-> 3rd year at **CPE Lyon (ICS)**: Advanced IT, Cybersecurity & Network Engineering 🔒
+> 3rd year at **CPE Lyon (ICS)**: Advanced IT, Dev, Cybersecurity & Network Engineering 🔒
 
 # Personal Projects ⚙️
 
@@ -64,7 +66,11 @@ Here are my projects (Not finished yet !)
 
 > CDR Galiléo (Coupe De Robotique)
 
-> LineUp_Project
+> LineUp_Project (Python)
+
+> Factorio manager update serveur (Bash)
+
+> Portfolio (html, bootstrap, js)
 
 # Upcoming Projects 🚀
 
