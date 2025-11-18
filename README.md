@@ -20,6 +20,7 @@ Technologies I use :
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-6C27F5?style=for-the-badge&logo=bootstrap&logoColor=black"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-7B00FA?style=for-the-badge&logo=php&logoColor=white"/>
 
 
 
@@ -33,6 +34,10 @@ Technologies I use :
 <img alt="watchguard" src="https://img.shields.io/badge/watchguard-C90004?style=for-the-badge&logo=watchguard&logoColor=black"/>
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-06BA1A?style=for-the-badge&logo=Cisco&logoColor=black"/>
 <img alt="Netgear" src="https://img.shields.io/badge/Netgear-453CCF?style=for-the-badge&logo=Netgear&logoColor=black"/>
+<img alt="ansible" src="https://img.shields.io/badge/ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black"/>
+<img alt="TrueNAS" src="https://img.shields.io/badge/truenas-00C4FF?style=for-the-badge&logo=truenas&logoColor=black"/>
+
+
 
 
 
@@ -45,6 +50,9 @@ Technologies I use :
 <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/>
 <img alt="Manjaro" src="https://img.shields.io/badge/Debian-59BD9F?style=for-the-badge&logo=Debian&logoColor=white"/>
+<img alt="Alpine" src="https://img.shields.io/badge/alpine-00C4FF?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
+
+
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killex8569&show_icons=true&theme=radical)
