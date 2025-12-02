@@ -37,9 +37,7 @@ Technologies I use :
 <img alt="watchguard" src="https://img.shields.io/badge/watchguard-C90004?style=for-the-badge&logo=watchguard&logoColor=black"/>
 <img alt="Cisco" src="https://img.shields.io/badge/Cisco-06BA1A?style=for-the-badge&logo=Cisco&logoColor=black"/>
 <img alt="Netgear" src="https://img.shields.io/badge/Netgear-453CCF?style=for-the-badge&logo=Netgear&logoColor=black"/>
-
 <img alt="ansible" src="https://img.shields.io/badge/ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black"/>
-
 <img alt="TrueNAS" src="https://img.shields.io/badge/truenas-00C4FF?style=for-the-badge&logo=truenas&logoColor=black"/>
 
 
