@@ -93,3 +93,5 @@ I'm working on:
 - [My Portfolio](https://github.com/killex8569/Mon-Portfolio)  
 - [LDMB](https://github.com/killex8569/LDMB)  
 - [Homelab Documentation](https://github.com/killex8569/Documentation-Homelab)
+- [Kosmoz](https://github.com/killex8569/Kosmoz)
+- [Jeveuxunstageouunealternance](https://github.com/killex8569/jeveuxunstageouunealternance/tree/main)
