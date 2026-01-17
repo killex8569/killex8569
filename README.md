@@ -85,6 +85,22 @@ Here are my projects (Not finished yet !)
 
 > Portfolio (html, bootstrap, js)
 
+
+# Currently learning 
+
+### Frontend
+
+- Vue.js
+- React
+- Svelte
+
+### Backend
+
+- FastAPI
+- Laravel
+- Node.js
+
+
 # Upcoming Projects 🚀
 
 I'm working on:
