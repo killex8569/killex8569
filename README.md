@@ -85,6 +85,8 @@ Here are my projects (Not finished yet !)
 
 > Portfolio (html, bootstrap, js)
 
+> Graphithium (Vue.js & Node.js)
+
 
 # Currently learning 
 
