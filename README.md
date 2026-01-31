@@ -34,13 +34,14 @@ Technologies I use :
 <img alt="VueJS" src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 
-
+</p>
 
 
 # Technologies (Infrastructure, Databases, Cybersécurity and Networking)
 
 Technologies I use : 
 
+<p>
 <img alt="opnsense" src="https://img.shields.io/badge/opnsense-E44C30?style=for-the-badge&logo=opnsense&logoColor=black"/>
 <img alt="proxmox" src="https://img.shields.io/badge/proxmox-DE6612?style=for-the-badge&logo=proxmox&logoColor=black"/>
 <img alt="stormshield" src="https://img.shields.io/badge/stormshield-0B9FD6?style=for-the-badge&logo=stormshield&logoColor=black"/>
@@ -57,7 +58,7 @@ Technologies I use :
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-
+</p>
 
 <br>
 
@@ -105,7 +106,6 @@ Technologies I use :
 ![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=killex8569&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killex8569&layout=compact&theme=radical)
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killex8569&show_icons=true&theme=radical)
 
