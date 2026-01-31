@@ -5,6 +5,17 @@ You can find my <a href="data/CV Alexandre Faubladier--anette 3ICS.pdf" class="b
 [📄 CV - Alexandre Faubladier](data/CV%20Alexandre%20Faubladier--anette%203ICS.pdf)
 
 
+# Internship
+
+I am looking for an internship preferably abroad for a duration of 3 months (between 9 and 12 weeks).
+The duration of the internship is from June 8, 2026 to August 28, 2026
+
+
+# Work-study (Alternance)
+
+I am looking for an apprenticeship for a duration of 2 years starting in September 2026.
+
+
 # Technologies (Dev)
 
 Technologies I use :
@@ -67,18 +78,16 @@ Technologies I use :
 
 
 # Code environnement
+
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-
 
 # Soft skills
 
 - Self learning
 - Rigorous
 - Calm
-- 
 
 
 # My other passions
@@ -99,6 +108,26 @@ Technologies I use :
 > 1st and 2nd year at **BTS SIO (Chartreux)**: Basics in IT & Networking ✅  
 
 > 3rd year at **CPE Lyon (ICS)**: Advanced IT, Dev, Cybersecurity & Network Engineering 🔒
+
+
+# Curriculum
+
+## Intern at Advolis-Orfis for 6 weeks (3 June 2024 - 5 July 2024)
+
+> I had the time to set up the following elements: 
+
+- 
+- 
+- 
+
+## Intern at Advolis-Orfis for 8 weeks ()
+
+> I had the time to set up the following elements: 
+
+- 
+- 
+- 
+
 
 # Personal Projects ⚙️
 
