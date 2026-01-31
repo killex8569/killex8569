@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/alexandre-faubladier-anette-750967277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:alexandre.faublanette@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="data/CV Alexandre Faubladier--anette 3ICS.pdf"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" /></a>
+<a href="data/CV_Alexandre_FA_Github.pdf"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" /></a>
 <a href="https://killex8569.github.io/Mon-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
