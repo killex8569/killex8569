@@ -27,7 +27,7 @@ Technologies I use :
 
 
 
-# Technologies (Infrastructure, Cybersécurity and Networking)
+# Technologies (Infrastructure, Databases, Cybersécurity and Networking)
 
 Technologies I use : 
 
@@ -39,9 +39,17 @@ Technologies I use :
 <img alt="Netgear" src="https://img.shields.io/badge/Netgear-453CCF?style=for-the-badge&logo=Netgear&logoColor=black"/>
 <img alt="ansible" src="https://img.shields.io/badge/ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black"/>
 <img alt="TrueNAS" src="https://img.shields.io/badge/truenas-00C4FF?style=for-the-badge&logo=truenas&logoColor=black"/>
+<img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="apache" src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+<img alt="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="windows" src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt="mariadb" src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 
 
+<br>
 
 
 # Linux Distributions 🐧 
@@ -56,6 +64,29 @@ Technologies I use :
 <img alt="Alpine" src="https://img.shields.io/badge/alpine-00C4FF?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F54927?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 <img alt="Alma" src="https://img.shields.io/badge/redhat-E01010?style=for-the-badge&logo=redhat&logoColor=white"/>
+
+
+# Code environnement
+<img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+
+
+# Soft skills
+
+- Self learning
+- Rigorous
+- Calm
+- 
+
+
+# My other passions
+
+- Astronomy
+- Music
+- Football (Soccer)
+- Vidéo games
 
 
 </p>
@@ -99,8 +130,10 @@ Here are my projects (Not finished yet !)
 ### Backend
 
 - FastAPI
+- Django
 - Laravel
 - Node.js
+
 
 
 # Upcoming Projects 🚀
@@ -113,3 +146,4 @@ I'm working on:
 - [Homelab Documentation](https://github.com/killex8569/Documentation-Homelab)
 - [Kosmoz](https://github.com/killex8569/Kosmoz)
 - [Jeveuxunstageouunealternance](https://github.com/killex8569/jeveuxunstageouunealternance/tree/main)
+- [Graphithium](https://github.com/killex8569/Graphithium)
