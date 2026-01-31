@@ -54,7 +54,7 @@
 * **Network** Network Mapping.
 
 
-**IT Intern @ Advolis-Orfis** *(March 2024 - April 2024 | 8 weeks)*
+**IT Intern @ Advolis-Orfis** *(March 2025 - April 2025 | 8 weeks)*
 
 * **Deployment:** Configuration of automated deployment solutions (**WDS, MDT**).
 * **Infrastructure:** Windows Server administration (ADDS), GLPI ticketing system updates.
