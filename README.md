@@ -93,5 +93,5 @@
 
 ### 🌟 Soft Skills & Interests
 
-* **Soft Skills:** Self-taught, Rigorous, Calm under pressure.
+* **Soft Skills:** Self-taught, Rigorous, Calm under pressure, Team work.
 * **Hobbies:** 🔭 Astronomy | 🎵 Music | ⚽ Football (Soccer) | 🎮 Video Games
