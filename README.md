@@ -25,7 +25,6 @@ Technologies I use :
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -100,6 +99,14 @@ Technologies I use :
 
 </p>
 
+
+# Infographics
+
+![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=killex8569&theme=radical)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killex8569&layout=compact&theme=radical)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killex8569&show_icons=true&theme=radical)
 
 
@@ -110,23 +117,28 @@ Technologies I use :
 > 3rd year at **CPE Lyon (ICS)**: Advanced IT, Dev, Cybersecurity & Network Engineering 🔒
 
 
-# Curriculum
+# Experience
 
 ## Intern at Advolis-Orfis for 6 weeks (3 June 2024 - 5 July 2024)
 
 > I had the time to set up the following elements: 
 
-- 
-- 
-- 
+- Writing documentation
+- Installation and configuration of a monitoring solution (Zabbix with Grafana)
+- Network mapping
+- Presentation meeting
 
 ## Intern at Advolis-Orfis for 8 weeks ()
 
 > I had the time to set up the following elements: 
 
-- 
-- 
-- 
+- Configuration of deployment solution (WDS, MDT)
+- Network mapping
+- Windows server (ADDS)
+- Update of monitoring, ticketing (GLPI) solutions 
+- Presentation meeting
+- Writing documentation
+- Participation in the start of drafting the PCA PRA
 
 
 # Personal Projects ⚙️
@@ -176,3 +188,9 @@ I'm working on:
 - [Kosmoz](https://github.com/killex8569/Kosmoz)
 - [Jeveuxunstageouunealternance](https://github.com/killex8569/jeveuxunstageouunealternance/tree/main)
 - [Graphithium](https://github.com/killex8569/Graphithium)
+
+# Contact me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-faubladier-anette-750967277/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.faublanette@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://killex8569.github.io/Mon-Portfolio/)
