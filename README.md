@@ -79,9 +79,12 @@ Technologies I use :
 
 # Code environnement
 
+<p>
 <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+</p>
 
 # Soft skills
 
@@ -98,17 +101,18 @@ Technologies I use :
 - Vidéo games
 
 
-</p>
 
 
 # Infographics
+
+<p>
 
 ![[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=killex8569&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killex8569&layout=compact&theme=radical)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=killex8569&show_icons=true&theme=radical)
-
+</p>
 
 # School Curriculum 
 
