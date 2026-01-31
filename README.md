@@ -45,13 +45,21 @@
 
 ### 💼 Professional Experience
 
-**IT Intern @ Advolis-Orfis** *(June 2024 - July 2024 | 6 weeks + 8 weeks)*
+**IT Intern @ Advolis-Orfis** *(June 2024 - July 2024 | 6 weeks)*
+
 
 * **Monitoring:** Full setup of **Zabbix** integrated with **Grafana** dashboards.
+* **Infrastructure:** Windows Server administration (ADDS).
+* **Documentation:** Technical procedure writing.
+* **Network** Network Mapping.
+
+
+**IT Intern @ Advolis-Orfis** *(March 2024 - April 2024 | 8 weeks)*
+
 * **Deployment:** Configuration of automated deployment solutions (**WDS, MDT**).
 * **Infrastructure:** Windows Server administration (ADDS), GLPI ticketing system updates.
-* **Documentation:** Network mapping and technical procedure writing.
-* **Security:** Contributed to Business Continuity & Disaster Recovery Plans (**BCP/DRP**).
+* **Documentation:** Network mapping update and technical procedure writing.
+* **Security:** Contributed to Business Continuity & Disaster Recovery Plans (**BCP/DRP** - **PCA/PRA**).
 
 ---
 
