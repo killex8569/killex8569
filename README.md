@@ -13,7 +13,7 @@
 ### 🎯 2026 Goals
 
 * **International Internship:** 3 months (9-12 weeks) from **June 8, 2026, to August 28, 2026**.
-* **Work-study (Apprenticeship):** 2-year contract starting **September 2026**.
+* **Work-study (Apprenticeship):** 2-year contract starting **September 2026** at Alstom.
 
 ---
 
