@@ -12,8 +12,9 @@
 
 ### 🎯 2026 Goals
 
-* **International Internship:** 3 months (9-12 weeks) from **June 8, 2026, to August 28, 2026**.
-* **Work-study (Apprenticeship):** 2-year contract starting **September 2026** at Alstom.
+* **Get my master’s degree (2028)**
+* **deepening in software development**
+
 
 ---
 
@@ -45,6 +46,21 @@
 
 ### 💼 Professional Experience
 
+**IT Intern @ DriveSchool** *(June 2024 - July 2024 | 6 weeks)*
+
+* **Development** Developing and deploying a React website using CI/CD pipelines.
+* **Cybersecurity** Drafting cybersecurity documentation.
+* **Auditing** Conducting audits to identify and report potential issues.
+
+
+**IT Intern @ Advolis-Orfis** *(March 2025 - April 2025 | 8 weeks)*
+
+* **Deployment:** Configuration of automated deployment solutions (**WDS, MDT**).
+* **Infrastructure:** Windows Server administration (ADDS), GLPI ticketing system updates.
+* **Documentation:** Network mapping update and technical procedure writing.
+* **Security:** Contributed to Business Continuity & Disaster Recovery Plans (**BCP/DRP** - **PCA/PRA**).
+
+
 **IT Intern @ Advolis-Orfis** *(June 2024 - July 2024 | 6 weeks)*
 
 
@@ -54,12 +70,6 @@
 * **Network** Network Mapping.
 
 
-**IT Intern @ Advolis-Orfis** *(March 2025 - April 2025 | 8 weeks)*
-
-* **Deployment:** Configuration of automated deployment solutions (**WDS, MDT**).
-* **Infrastructure:** Windows Server administration (ADDS), GLPI ticketing system updates.
-* **Documentation:** Network mapping update and technical procedure writing.
-* **Security:** Contributed to Business Continuity & Disaster Recovery Plans (**BCP/DRP** - **PCA/PRA**).
 
 ---
 
