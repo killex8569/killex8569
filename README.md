@@ -46,7 +46,7 @@
 
 ### 💼 Professional Experience
 
-**IT Intern @ DriveSchool** *(June 2024 - July 2024 | 6 weeks)*
+**IT Intern @ DriveSchool** *(July 2026 - August 2026 | 8 weeks)*
 
 * **Development** Developing and deploying a React website using CI/CD pipelines.
 * **Cybersecurity** Drafting cybersecurity documentation.
