@@ -17,7 +17,7 @@
 ### 🎯 Goals
 
 * **Land an international internship (summer 2027)**
-* **Grow as a software engineer: CI/CD, test automation & clean code**
+* **Grow as a software engineer**
 * **Graduate as an engineer from CPE Lyon (2028)**
 
 ---
