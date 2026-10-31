@@ -49,7 +49,7 @@
 
 ### 🎓 Education
 
-* **CPE Lyon — Engineering degree in Computer Science & Cybersecurity** *(2025 – 2028)* · Apprenticeship track with Alstom from 2026. 🔒
+* **CPE Lyon — Engineering degree in Computer Science & Cybersecurity** *(2025 – 2028)* · Apprenticeship track with Alstom from 2026. ⏳
 * **Institution des Chartreux — BTS SIO, Systems & Networks option (SISR)** *(2023 – 2025)* ✅
 
 ### 📜 Certifications
@@ -91,9 +91,9 @@
 
 ### ⚙️ Ongoing & Upcoming Projects
 
-* 🤖 **[Galileo's CDR](https://github.com/GalileoCPELYON/CDR_25_26)** : CPE Lyon Galileo robotics club — French Robotics Cup (Coupe de France de robotique).
-* 🏠 **[Homelab](https://github.com/killex8569/Documentation-Homelab)** : Documentation of my personal self-hosting infrastructure.
-* 🌐 **[Portfolio](https://github.com/killex8569/Mon-Portfolio)** : Personal website (Bootstrap/JS).
+* 🤖 **[Galileo's CDR](https://github.com/GalileoCPELYON/CDR_25_26)** : CPE Lyon Galileo robotics club — French Robotics Cup (Coupe de France de robotique). ⏳
+* 🏠 **[Homelab](https://github.com/killex8569/Documentation-Homelab)** : Documentation of my personal self-hosting infrastructure.✅
+* 🌐 **[Portfolio](https://github.com/killex8569/Mon-Portfolio)** : Personal website (Bootstrap/JS). ✅
 
 
 ---
